@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Esta es una de mis paginas modificadas apartir de una plantilla ya creada](images/pagina.png)
+![Esta es una de mis paginas modificadas a partir de una plantilla ya creada](images/pagina.png)
 
 <!--
 **Sampreciado07/Sampreciado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
