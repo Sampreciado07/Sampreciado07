@@ -1,8 +1,8 @@
-## <span style="color:blue">Hi there 👋</span>
+## <font color="blue">Hi there 👋</font>
 
-# <span style="color:red">Tarjeta de Presentación</span>
+# <font color="red">Tarjeta de Presentación</font>
 
-¡Hola! Soy <span style="color:green">Sampreciado07</span>, y aquí hay algunos de mis proyectos destacados en GitHub:
+¡Hola! Soy <font color="green">Sampreciado07</font>, y aquí hay algunos de mis proyectos destacados en GitHub:
 
 ---
 
@@ -14,12 +14,13 @@
 
 ---
 
-**<span style="color:orange">Modificacion de Plantilla:</span>** <span style="color:blue">*</span><span style="color:blue">Esta es una de las paginas modificadas a partir de una plantilla ya creada*</span> **Link del Proyecto:** moficacionhtml.zeabur.app
+**<font color="orange">Modificacion de Plantilla:</font>** <font color="blue">*</font><font color="blue">Esta es una de las páginas modificadas a partir de una plantilla ya creada*</font>
+**Link del Proyecto:** moficacionhtml.zeabur.app
 
-**<span style="color:green">Juego de Memoria:</span>** <span style="color:red">*</span><span style="color:red">Diseño de un juego de memoria con tematica de varios emoticonos conocidos*</span>
+**<font color="green">Juego de Memoria:</font>** <font color="red">*</font><font color="red">Diseño de un juego de memoria con temática de varios emoticonos conocidos*</font>
 **Link del Proyecto:** https://sampreciado07.github.io/Memory-Game/
 
-**<span style="color:purple">Mapa con Modelo 3D:</span>** <span style="color:yellow">*</span><span style="color:yellow">Adicion de un modelo 3D de un personaje animado en un mapa*</span>
+**<font color="purple">Mapa con Modelo 3D:</font>** <font color="yellow">*</font><font color="yellow">Adición de un modelo 3D de un personaje animado en un mapa*</font>
 **Link del Proyecto:** https://codepen.io/Sampreciado07/pen/RwmGMvj
 <!--
 **Sampreciado07/Sampreciado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
