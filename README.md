@@ -6,10 +6,10 @@
 
 ---
 
-<div align="center">
-    <img src="images/pagina.jpg" alt="Proyecto 1" width="300" style="border-radius: 8px; margin: 10px;">
-    <img src="images/juego.jpg" alt="Proyecto 2" width="300" style="border-radius: 8px; margin: 10px;">
-    <img src="images/modelo.jpg" alt="Proyecto 3" width="300" style="border-radius: 8px; margin: 10px;">
+<div align="center" style="background: linear-gradient(to right, #f8b500, #f07a00); padding: 20px;">
+    <img src="images/pagina.jpg" alt="Proyecto 1" width="300" style="border-radius: 8px; margin: 10px; filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));">
+    <img src="images/juego.jpg" alt="Proyecto 2" width="300" style="border-radius: 8px; margin: 10px; filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));">
+    <img src="images/modelo.jpg" alt="Proyecto 3" width="300" style="border-radius: 8px; margin: 10px; filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.1));">
 </div>
 
 ---
