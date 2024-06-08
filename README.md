@@ -1,8 +1,8 @@
-## Hi there 👋
+## <span style="color:blue">Hi there 👋</span>
 
-# Tarjeta de Presentación
+# <span style="color:red">Tarjeta de Presentación</span>
 
-¡Hola! Soy Sampreciado07, y aquí hay algunos de mis proyectos destacados en GitHub:
+¡Hola! Soy <span style="color:green">Sampreciado07</span>, y aquí hay algunos de mis proyectos destacados en GitHub:
 
 ---
 
@@ -14,14 +14,13 @@
 
 ---
 
-**Modificacion de Plantilla:** *Esta es una de las paginas modificadas a partir de una plantilla ya creada*
-**Link del Proyecto:** moficacionhtml.zeabur.app
+**<span style="color:orange">Modificacion de Plantilla:</span>** <span style="color:blue">*</span><span style="color:blue">Esta es una de las paginas modificadas a partir de una plantilla ya creada*</span> **Link del Proyecto:** moficacionhtml.zeabur.app
 
-**Juego de Memoria:** *Diseño de un juego de memoria con tematica de varios emoticonos conocidos*
+**<span style="color:green">Juego de Memoria:</span>** <span style="color:red">*</span><span style="color:red">Diseño de un juego de memoria con tematica de varios emoticonos conocidos*</span>
 **Link del Proyecto:** https://sampreciado07.github.io/Memory-Game/
 
-**Mapa con Modelo 3D:** *Adicion de un modelo 3D de un personaje animado en un mapa*
-**Link del Proyecto:** 
+**<span style="color:purple">Mapa con Modelo 3D:</span>** <span style="color:yellow">*</span><span style="color:yellow">Adicion de un modelo 3D de un personaje animado en un mapa*</span>
+**Link del Proyecto:** https://codepen.io/Sampreciado07/pen/RwmGMvj
 <!--
 **Sampreciado07/Sampreciado07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
